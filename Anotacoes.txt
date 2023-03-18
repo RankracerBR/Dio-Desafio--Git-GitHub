@@ -1,2 +1,2 @@
-Link para Dowload do Git: https://git-scm.com/dowloads
+Link para Download do Git: https://git-scm.com/dowloads
 O Git Bas é um terminal extendido para otimizar o uso do Git
